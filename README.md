@@ -1,6 +1,6 @@
 <h2>Professional Profile</h3>
 <p>Hi! 😀</p>
-I’m @afonsoangeli, a brazilian guy. I've been working as a developer for over 3 years, and i am a .NET specialist. I've had experience as a full stack, but my passion is work as back-end developer.
+I’m @afonsoangeli, a brazilian guy. I've been working as a developer for over 3 years, and i am a .NET specialist. I had experience as a full stack, but my passion is work as back-end developer.
 I also have knowledge in SCRUM, Azure DevOps, SQL Server, Cloud FireStore, Object-oriented programming (OOP), SQL, C++, C#, HTML, CSS, Javascript. I'm always looking for new knowledge, currently i'm learning NodeJs.
 
 <h2>More about me</h2>
