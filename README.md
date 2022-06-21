@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/afonsoangeli"><img src="https://github.com/afonsoangeli/afonsoangeli/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/afonsoangeli"><img src="https://github.com/afonsoangeli/afonsoangeli/blob/main/devcard.svg" width="400" alt="Afonso Angeli's Dev Card"/></a>
 
 <h2>Professional Profile</h3>
 <p>Hi! 😀</p>
