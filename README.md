@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/afonsoangeli"><img src="https://github.com/afonsoangeli/afonsoangeli/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
 <h2>Professional Profile</h3>
 <p>Hi! 😀</p>
 I’m @afonsoangeli, a brazilian guy. I've been working as a developer for over 3 years, and i am a .NET specialist. I had experience as a full stack, but my passion is work as back-end developer.
