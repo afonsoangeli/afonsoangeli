@@ -10,8 +10,3 @@ In my spare time, I love to play, and I am a love to work out.
 I believe that knowledge only gains value when it is shared, so whenever possible, I like to pass on everything I learn!! 🥰
 
 <h4>You can find me in:</h4>
-<p><img src="https://img-premium.flaticon.com/png/512/2111/2111463.png?token=exp=1621526082~hmac=ab4166387022ef79c232ec12ef264de8" href="www.google.com.br" width=15 height=15> @afonsoangeli</p>
-
-
-
-
