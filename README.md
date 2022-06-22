@@ -11,4 +11,5 @@ I also have knowledge in SCRUM, Azure DevOps, SQL Server, Cloud FireStore, Objec
 In my spare time, I love to play, and I am a love to work out.
 I believe that knowledge only gains value when it is shared, so whenever possible, I like to pass on everything I learn!! 🥰
 
-<h4>You can find me in:</h4>
+<h4>I often write articles and tutorials, you can find on:</h4>
+Medium: <a href="https://medium.com/@afonsoangeli">afonsoangeli</a>
